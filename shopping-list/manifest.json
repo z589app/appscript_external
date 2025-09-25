@@ -1,0 +1,16 @@
+{
+  "name": "ShoppingList",
+  "short_name": "List",
+  "background_color": "#fc980c",
+  "icons": [{
+      "src": "/icon-256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },{
+      "src": "/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }],
+  "start_url": "/?utm_source=homescreen",
+  "display": "standalone"
+}
